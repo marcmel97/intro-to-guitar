@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img alt="code logo" title="code" src="./public/images/course-icon.png" /></a></p>
+<p align="center"><a href=""><img alt="code logo" title="code" src="./public/images/bienvenido.png" /></a></p>
 
 <p align="center">
   Aprende a tocar guitarra introductoria con este curso 
