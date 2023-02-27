@@ -1,18 +1,19 @@
 {
   "author": {
-    "name": "Brian Holt",
-    "company": "Stripe"
+    "name": "Marcos López",
+    "company": "Músico y Productor Musical"
   },
-  "title": "Complete Intro to SQL",
-  "subtitle": "and PostgreSQL",
-  "frontendMastersLink": "https://frontendmasters.com/courses/sql/",
+  "title": "Curso Completo de Introducción a la Guitarra",
+  "subtitle": "y Teoría Musical",
+  "frontendMastersLink": "https://www.cepaim.org/donde-trabajamos/aragon/barbastro/",
   "social": {
-    "linkedin": "btholt",
-    "github": "btholt",
-    "twitter": "holtbt"
+    "linkedin": "marcmel",
+    "github": "marcmel97",
+    "twitter": "musicmarcmel",
+    "instagram": "music.marcmel"
   },
-  "description": "Come learn the basics to querying SQL and managing PostgreSQL with industry expert Brian Holt",
-  "keywords": ["sql", "querying", "data", "Brian Holt", "node.js", "javascript"],
+  "description": "Ven a aprender el curso introductorio de guitarra con el músico Marcos López",
+  "keywords": ["guitar", "music theory", "chord progressions", "Marcos López", "Marcmel", "ear training"],
   "productionBaseUrl": "",
   "csvPath": "./out/lessons.csv"
 }

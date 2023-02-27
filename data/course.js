@@ -7,13 +7,14 @@ const DEFAULT_CONFIG = {
   },
   title: "A Superb Course",
   subtitle: "That Teaches Nice Things",
-  frontendMastersLink: "",
+  frontendMastersLink: "https://www.cepaim.org/donde-trabajamos/aragon/barbastro/",
   description: "A nice course for nice people.",
   keywords: ["a nice course", "for people", "to learn", "nice things"],
   social: {
-    linkedin: "btholt",
-    github: "btholt",
-    twitter: "holtbt",
+    linkedin: "marcmel",
+    github: "marcmel97",
+    twitter: "musicmarcmel",
+    instagram: "music.marcmel"
   },
   productionBaseUrl: "/",
 };
