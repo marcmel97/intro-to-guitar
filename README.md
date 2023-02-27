@@ -1,9 +1,7 @@
-<p align="center"><a href="https://frontendmasters.com/workshops/complete-intro-sql/"><img alt="code logo" title="code" src="./public/images/course-icon.png" /></a></p>
-
-[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)][fem]
+<p align="center"><a href=""><img alt="code logo" title="code" src="./public/images/course-icon.png" /></a></p>
 
 <p align="center">
-  Learn to construct databases, write queries, and optimize SQL with industry veteran Brian Holt.
+  Aprende a tocar guitarra introductoria con este curso 
 </p>
 
 ## License
@@ -11,8 +9,6 @@
 The **code** in this repo is licensed under the Apache 2.0 license.
 
 The **content** is licensed under CC-BY-NC-4.0.
-
-[fem]: https://frontendmasters.com/workshops/complete-intro-sql/
 
 ## Course Icon License
 
