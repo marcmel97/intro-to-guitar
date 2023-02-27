@@ -1,6 +1,6 @@
 ---
 title: "Introducción"
-description: "Brian welcomes you to the course and sets expectations of what you will learn in the Complete Intro to SQL and PostgreSQL"
+description: "Marcos te da la bienvenida al curso de introducción guitarrística"
 ---
 
 ¡Hola! Bienvenido al curso introductorio de guitarra de [Marcos López][instagram].
