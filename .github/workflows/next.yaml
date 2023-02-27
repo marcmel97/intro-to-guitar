@@ -1,3 +1,4 @@
+
 name: Deploy NextJS Course Site to GitHub Pages
 
 on:
@@ -15,10 +16,10 @@ jobs:
           npm install
           npm run export
       - name: Deploy site to gh-pages branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: gh-pages
           build_dir: out
-          # fqdn: 
+          # fqdn: sql.holt.courses
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
