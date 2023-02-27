@@ -20,6 +20,6 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: out
-          # fqdn: sql.holt.courses
+          # fqdn: 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
