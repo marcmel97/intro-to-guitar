@@ -169,7 +169,11 @@ header .cta-btn {
 }
 
 .jumbotron .courseInfo {
-  background: var(--primary);
+  background: var(--fourth);
+}
+
+.jumbotron .courseInfo h1, .jumbotron .courseInfo h2 {
+  color: var(--text-main-headers);
 }
 
 .jumbotron .courseIcon {

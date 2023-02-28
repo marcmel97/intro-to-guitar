@@ -47,12 +47,12 @@ export default function LessonSlug({ post }) {
           <div className="lesson-links">
             {post.prevSlug ? (
               <a href={post.prevSlug} className="prev">
-                ← Previous
+                ← Anterior
               </a>
             ) : null}
             {post.nextSlug ? (
               <a href={post.nextSlug} className="next">
-                Next →
+                Siguiente →
               </a>
             ) : null}
           </div>

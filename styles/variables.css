@@ -2,13 +2,19 @@
   --primary: #ff6838;
   --secondary: #005c83;
   --highlight: #00263f;
+  --ternary: #FF00FF;
+  --fourth: #EFDECD;
+  --fifth: #B30000;
+  --sixth: #FFFF19;
 
   --text-header: var(--primary);
+  --text-big-header: var(--fifth);
   --text-main-headers: var(--highlight);
   --text-links: var(--primary);
   --text-footer: #333;
 
   --bg-main: white;
+  --bg-alternative: var(--primary);
   --bg-dots: var(--highlight);
   --bg-lesson: white;
 
