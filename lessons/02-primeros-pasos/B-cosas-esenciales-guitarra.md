@@ -1,5 +1,5 @@
 ---
-title: "artilugios esenciales"
+title: "Artilugios Esenciales"
 description: "Explica los artilugios necesarios que debes llevar contigo para tocar la guitarra"
 ---
 
