@@ -5,6 +5,4 @@ description: "Links a material adicional"
 
 # Material Adicional
 
-[Guitarra para tontos][dummy-guitar]
-
-[dummy-guitar]: https://www.dummies.com/article/academics-the-arts/music/instruments/guitar/guitar-for-dummies-cheat-sheet-207443/
+[Drive del material de la clase][https://drive.google.com/drive/folders/1nB6OKCTRHwaDdWlaApvpcn-A0b7-Stsk?usp=share_link]
